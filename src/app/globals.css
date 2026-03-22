@@ -26,6 +26,6 @@ body {
 }
 
 /* subtle glow */
-a:hover {
+/*a:hover {
     box-shadow: 0 0 10px rgba(100, 149, 237, 0.2);
-}
+}*/
